@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: c22ecc37a58c0cb46b438e5a45cb5196
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _openCube: {fileID: 100000, guid: 7274fdb34c9484443842460b4a10a8c3, type: 2}
+  - _closedCube: {fileID: 100000, guid: 7f5973e0eb6b36d48b8c883bd19dfa3b, type: 2}
+  - _base: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

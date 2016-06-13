@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <IsEnemyClose>Yes, No, Maybe</IsEnemyClose>
+  <EnemyInSight>Yes, No</EnemyInSight>
+  <Hurt>Below50, Above50</Hurt>
+</root>
